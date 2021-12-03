@@ -1,5 +1,6 @@
 # ДЗ 3
 ## Бордюгов Максим
+
 [часть 1]
 (https://colab.research.google.com/drive/1RGGCe0_LbdygMAMLnsc0SsdengBq1CwF?usp=sharing)
 
